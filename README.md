@@ -1,6 +1,6 @@
 ## Estudiante: Fabrizio Signorello
 
-Intentando aprender programación 
+21 años, intentando aprender programación, interesado en backend y manejo de database.
 
 Foto de mi persona:
 
