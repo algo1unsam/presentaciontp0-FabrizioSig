@@ -1,7 +1,6 @@
 ## Estudiante: Fabrizio Signorello
 
-21 años, intentando aprender programación, interesado en backend y manejo de database.
-Hice 1 año medio de ingeniería química y me pasé a TPI en la UNSAM
+21 años, intentando aprender programación, interesado en backend y manejo de database. Hice 1 año medio de ingeniería química y me pasé a TPI en la UNSAM.
 
 Foto de mi persona:
 
